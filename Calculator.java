@@ -19,6 +19,10 @@ public class Calculator {
         return (double) a / b;
     }
     
+       public int power(int a, int b) {
+        return (int) Math.pow(a, b);
+    }
+    
     public static void main(String[] args) {
         Calculator calc = new Calculator();
         
