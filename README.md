@@ -15,4 +15,4 @@ java Calculator
 ```
 
 ## Author
-Built as my first GitHub project!
+Zhameer Sheraz
