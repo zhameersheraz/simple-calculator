@@ -7,6 +7,10 @@ A basic calculator built with Java in 2026.
 - Subtraction
 - Multiplication
 - Division
+- Power (exponentiation)
+- Modulo (remainder)
+- Square Root
+- Factorial
 
 ## How to Run
 ```bash
@@ -15,6 +19,4 @@ java Calculator
 ```
 
 ## Author
-Zhameer Sheraz
-
-Updated on January 3, 2026
+Zhameer Sheraz Tampugao
